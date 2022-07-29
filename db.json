@@ -1,0 +1,16 @@
+{
+    "contacts":[
+        {"id": 1, "code": 1 , "number": "010101", "description": "Teste 01", "identifier": "Teste 01", "permission": "LIBERAD"},
+        {"id": 2, "code": 2 , "number": "020202", "description": "Teste 02", "identifier": "Teste 02", "permission": "PROIBIDO"},
+        {"id": 3, "code": 1 , "number": "010101", "description": "Teste 01", "identifier": "Teste 01", "permission": "LIBERADO"},
+        {"id": 4, "code": 1 , "number": "010101", "description": "Teste 01", "identifier": "Teste 01", "permission": "PROIBIDO"}
+    ],
+
+    "phonebooks":[
+        {"id": 1, "name": "Agenda 01" },
+        {"id": 2, "name": "Agenda 02" },
+        {"id": 3, "name": "Agenda 03" },
+        {"id": 4, "name": "Agenda 04" }
+        
+    ]
+}
